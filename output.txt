@@ -1,0 +1,6 @@
+output:
+# KERNEL: at time =0 and a=x b=x, sum=x,carry=x
+# KERNEL: at time =10 and a=0 b=0, sum=0,carry=0
+# KERNEL: at time =20 and a=0 b=1, sum=1,carry=0
+# KERNEL: at time =30 and a=1 b=0, sum=1,carry=0
+# KERNEL: at time =40 and a=1 b=1, sum=0,carry=1
