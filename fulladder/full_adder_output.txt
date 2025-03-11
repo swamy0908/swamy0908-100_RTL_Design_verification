@@ -1,0 +1,9 @@
+KERNEL: at time=0,a=x , c=x ,sum=x,carry=xx
+# KERNEL: at time=10,a=0 , c=0 ,sum=0,carry=00
+# KERNEL: at time=20,a=0 , c=0 ,sum=1,carry=10
+# KERNEL: at time=30,a=0 , c=1 ,sum=0,carry=10
+# KERNEL: at time=40,a=0 , c=1 ,sum=1,carry=01
+# KERNEL: at time=50,a=1 , c=0 ,sum=0,carry=10
+# KERNEL: at time=60,a=1 , c=0 ,sum=1,carry=01
+# KERNEL: at time=70,a=1 , c=1 ,sum=0,carry=01
+# KERNEL: at time=80,a=1 , c=1 ,sum=1,carry=11
