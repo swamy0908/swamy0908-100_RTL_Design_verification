@@ -1,0 +1,4 @@
+ KERNEL: At time 0: s0 = 0, s1 = 0, i1 = 0, i2 = 1, i3 = 0, i4 = 1, out = 0
+# KERNEL: At time 5: s0 = 0, s1 = 1, i1 = 0, i2 = 1, i3 = 0, i4 = 1, out = 1
+# KERNEL: At time 10: s0 = 1, s1 = 0, i1 = 0, i2 = 1, i3 = 0, i4 = 1, out = 0
+# KERNEL: At time 15: s0 = 1, s1 = 1, i1 = 0, i2 = 1, i3 = 0, i4 = 1, out = 1
