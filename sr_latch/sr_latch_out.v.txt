@@ -1,0 +1,4 @@
+KERNEL: at time 0 the inputs r=0, s=0 and output q=1, q_bar=1
+# KERNEL: at time 5 the inputs r=0, s=1 and output q=1, q_bar=0
+# KERNEL: at time 10 the inputs r=1, s=0 and output q=0, q_bar=1
+# KERNEL: at time 15 the inputs r=1, s=1 and output q=0, q_bar=1
