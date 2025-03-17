@@ -1,0 +1,8 @@
+KERNEL: at time=0,the inputs a=0,b=0,c=0 and ouput d=0,b=0
+# KERNEL: at time=10,the inputs a=0,b=0,c=1 and ouput d=1,b=1
+# KERNEL: at time=20,the inputs a=0,b=1,c=0 and ouput d=1,b=1
+# KERNEL: at time=30,the inputs a=0,b=1,c=1 and ouput d=0,b=1
+# KERNEL: at time=40,the inputs a=1,b=0,c=0 and ouput d=1,b=0
+# KERNEL: at time=50,the inputs a=1,b=0,c=1 and ouput d=0,b=0
+# KERNEL: at time=60,the inputs a=1,b=1,c=0 and ouput d=0,b=0
+# KERNEL: at time=70,the inputs a=1,b=1,c=1 and ouput d=1,b=1
